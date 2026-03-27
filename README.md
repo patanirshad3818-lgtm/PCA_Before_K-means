@@ -4,7 +4,7 @@
 ## Author: Irshad Patan
 ## Student ID: 24147104
 ## Module: Advanced Machine Learning
-## Repository: (Insert your repository URL here)
+## Repository: https://github.com/patanirshad3818-lgtm/PCA_Before_K-means.git 
 
 ### Project Overview
 
