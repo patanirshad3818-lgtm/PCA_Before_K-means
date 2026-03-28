@@ -75,16 +75,6 @@ scikit-learn
 Install dependencies using:
 
 pip install numpy pandas matplotlib scikit-learn
-### How to Run the Notebook
-Clone the repository:
-git clone https://github.com/your-username/PCA_KMeans_Clustering.git
-Navigate to the project directory:
-cd PCA_KMeans_Clustering
-Launch Jupyter Notebook:
-jupyter notebook
-Open PCA_KMeans_Tutorial.ipynb and run all cells.
-
-The notebook is designed to run from top to bottom without modification.
 
 ### Key Findings
 PCA significantly improves cluster visual interpretability.
